@@ -27,8 +27,8 @@ class PointCard extends Component {
   render() {
     return (
       <Container>
-        <h1 className='header'>포인트 카드</h1>
-        <p>포인트 카드를 한장 뽑습니다</p>
+        <h1 className='header'>퀴즈 카드</h1>
+        <p>퀴즈 카드를 한장 뽑습니다</p>
         <Button
           className='card-button btn-primary'
           onClick={() => {
